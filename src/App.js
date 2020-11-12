@@ -46,7 +46,7 @@ function App() {
     return (
     <div className="App">
       <header>
-      <h1> To do List</h1>
+      <h1> Task Tracker</h1>
       </header>
     <Form
     setInputText={setInputText}
